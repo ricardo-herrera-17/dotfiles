@@ -1,0 +1,9 @@
+git/gitconfig.local.symlink
+Brewfile.lock.json
+
+gcloud/
+raycast/
+
+.DS_Store
+
+.zcompdump*
