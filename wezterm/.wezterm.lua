@@ -43,7 +43,8 @@ config.native_macos_fullscreen_mode = true
 
 -- Theme
 -- config.color_scheme = "Dracula (Official)"
-config.color_scheme = "carbonfox"
+-- config.color_scheme = "carbonfox"
+config.color_scheme = "tokyonight_night"
 
 -- Font
 config.font = wezterm.font("Hack Nerd Font")
@@ -55,7 +56,7 @@ config.window_decorations = "RESIZE"
 config.default_cursor_style = "BlinkingBar"
 config.hide_tab_bar_if_only_one_tab = true
 config.window_close_confirmation = "AlwaysPrompt"
-config.tab_bar_at_bottom = true
+config.tab_bar_at_bottom = false
 config.window_padding = {
   left = 0,
   right = 0,

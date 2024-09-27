@@ -26,7 +26,7 @@ return {
   config = function()
     require('goto-preview').setup {
       width = 110, -- Width of the floating window
-      height = 50, -- Height of the floating window
+      height = 70, -- Height of the floating window
       border = {"↖", "─" ,"┐", "│", "┘", "─", "└", "│"}, -- Border characters of the floating window
       default_mappings = false, -- Bind default mappings
       debug = false, -- Print debug information

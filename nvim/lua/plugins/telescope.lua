@@ -6,13 +6,14 @@ return {
             defaults = {
                 layout_strategy = "vertical",
                 layout_config = {
-                    height = 0.95,
-                    width = 0.9
+                    height = 0.97,
+                    width = 0.93,
+                    preview_height = 0.75
                 },
             },
             pickers = {
                 find_files = {
-                    hidden = true,
+                    hidden = false,
                 },
             },
         })

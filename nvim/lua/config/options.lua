@@ -8,3 +8,4 @@ opt.wrap = true -- disable line wrapping
 
 -- disable autoformat
 vim.g.autoformat = false
+vim.diagnostic.enable(false)

@@ -20,3 +20,5 @@ alias lT='eza --tree'
 
 alias zConf='cd ~/.config && nvim'
 alias zSource='source ~/.config/zsh/.zshrc'
+
+alias cdSwap='cd ~/.local/state/nvim'

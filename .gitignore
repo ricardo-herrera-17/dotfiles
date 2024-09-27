@@ -7,3 +7,9 @@ raycast/
 .DS_Store
 
 .zcompdump*
+
+zsh/.zsh_sessions/
+
+btop/btop.log
+
+gh/
